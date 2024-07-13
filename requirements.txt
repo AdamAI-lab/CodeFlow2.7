@@ -1,0 +1,5 @@
+PyQt5
+qasync
+aiohttp
+fpdf
+python-docx
